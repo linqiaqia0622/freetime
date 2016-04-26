@@ -1,2 +1,2 @@
 # freetime
-learn sth. interesting
+learn sth. trivial and interesting
